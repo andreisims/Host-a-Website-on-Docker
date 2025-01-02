@@ -1,0 +1,10 @@
+git clone: copy an existing repository from a remote server to your local machine
+git init: Initialize a new Git repository in the current directory
+git add: Stage changes for the next commit
+git commit: Save staged changes to the repository history
+git status: Show the current status of your working directory and staging area
+git push: Upload local repository changes to a remote repository
+git pull: Fetch and merge changes from a remote repository into the current branch
+git branch: List, create, or delete branches
+git checkout/git switch: Switch between branches or restore files
+git log: Show the commit history for the repository
